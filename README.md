@@ -35,5 +35,5 @@ Run the above files in colab environment. No libraries are required for this to 
 To deploy this project on local machine. Install packages in requirement file and run the following commands.
 - sudo python filename
 
- if the above command did not work then try to
+#if the above command did not work then try to
 - sudo python3 filename
