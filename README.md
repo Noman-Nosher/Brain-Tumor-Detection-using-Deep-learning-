@@ -48,4 +48,4 @@ To deploy this project on local machine. Install packages in requirement file an
 - sudo python filename
 - sudo python3 filename
 ## Further Readings
--Read thesis.pdf file 
+-Download thesis.pdf file from repository
