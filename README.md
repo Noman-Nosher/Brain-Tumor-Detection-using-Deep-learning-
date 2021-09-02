@@ -21,7 +21,10 @@ weighted image
 - Muniba kokab
 - Noman Nosher
 - Arslan Nasir
-## Dataset 
+## Dataset for Classification
+- kaggle dataset is used for brain tumor classification
+
+## Dataset for Segmentation
 We use BraTS 2018 data which consists of 210 HGG (High Grade Glioma) images and 75 
 LGG (Low Grade Glioma) along with survival dataset for 163 patients. We use only HGG 
 images 180 for training and 30 for testing. MRI images are categorized in following sequence 
@@ -29,8 +32,19 @@ i.e., T1-weighted image, T1-weighted with gadolinium contrast enhancement (t1gd)
 weighted image, and fluid-attenuated inversion recovery- (FLAIR) weighted image. Each 
 image is a 3D image with size (240,240,155).
 
+## Architecture for Segmentation, U-Net
+UNET architecture is named after its U like shape. This architecture [33] is inspired to deal 
+with specifically biomedical image segmentation. Because in medical field, Large amount of 
+data is not available easily. In case of large amount of data, neural networks can be trained for 
+months to extract the features. 
+
+
 ## Segmentation of four different classes of brain tumor
 ![tumor_segmentation](https://user-images.githubusercontent.com/87497905/131783353-07d29f4e-f2e0-4043-a2c0-6063f072b749.jpg)
+## Our model Classification Results
+
+## Our model Segmentation Results
+
 ## python files description
 - Tumor_classification.py will work for 2d images and give results of binary classification whether tumor is present or not.
 - Other two python files named Tumor segmentation are used for segmentation of 3d input images.
