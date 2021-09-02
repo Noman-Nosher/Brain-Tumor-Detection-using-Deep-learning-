@@ -38,6 +38,7 @@ UNET architecture is named after its U like shape. This architecture [33] is ins
 with specifically biomedical image segmentation. Because in medical field, Large amount of 
 data is not available easily. In case of large amount of data, neural networks can be trained for 
 months to extract the features. 
+
 ![Screenshot_4](https://user-images.githubusercontent.com/87497905/131785547-058cd70c-839c-4bfe-8ed4-91898ebc37db.png)
 
 ## Segmentation of four different classes of brain tumor
