@@ -41,12 +41,11 @@ months to extract the features.
 ![Screenshot_4](https://user-images.githubusercontent.com/87497905/131785547-058cd70c-839c-4bfe-8ed4-91898ebc37db.png)
 
 ## Segmentation of four different classes of brain tumor
--image modalities
-![Screenshot_3](https://user-images.githubusercontent.com/87497905/131785545-32a31e79-253d-436e-9788-cd395c09eee0.png)
-![tumor_segmentation](https://user-images.githubusercontent.com/87497905/131783353-07d29f4e-f2e0-4043-a2c0-6063f072b749.jpg)
+-![Screenshot_3](https://user-images.githubusercontent.com/87497905/131785545-32a31e79-253d-436e-9788-cd395c09eee0.png)
+-![tumor_segmentation](https://user-images.githubusercontent.com/87497905/131783353-07d29f4e-f2e0-4043-a2c0-6063f072b749.jpg)
 ## Our model Classification Results
 ![Screenshot_5](https://user-images.githubusercontent.com/87497905/131785536-4732d1b9-8f3d-4bd6-baec-4ae098b04110.png)
-![Screenshot_6](https://user-images.githubusercontent.com/87497905/131785539-28772a7b-db08-4001-95d7-0c219505841f.png
+![Screenshot_6](https://user-images.githubusercontent.com/87497905/131785539-28772a7b-db08-4001-95d7-0c219505841f.png)
 ## Our model Segmentation Results
 ![Screenshot_2](https://user-images.githubusercontent.com/87497905/131785544-849139d2-db15-41f3-ab5a-1a424bee2f17.png)
 ![Screenshot_7](https://user-images.githubusercontent.com/87497905/131785543-55fbd1bf-d2a5-433d-9227-ada3aa7375ed.png)
