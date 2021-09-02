@@ -21,6 +21,8 @@ weighted image
 - Muniba kokab
 - Noman Nosher
 - Arslan Nasir
+## Results
+![tumor_segmentation](https://user-images.githubusercontent.com/87497905/131783353-07d29f4e-f2e0-4043-a2c0-6063f072b749.jpg)
 
 
 
