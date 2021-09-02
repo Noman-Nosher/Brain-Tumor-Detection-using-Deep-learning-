@@ -21,11 +21,19 @@ weighted image
 - Muniba kokab
 - Noman Nosher
 - Arslan Nasir
+## Dataset 
+We use BraTS 2018 data which consists of 210 HGG (High Grade Glioma) images and 75 
+LGG (Low Grade Glioma) along with survival dataset for 163 patients. We use only HGG 
+images 180 for training and 30 for testing. MRI images are categorized in following sequence 
+i.e., T1-weighted image, T1-weighted with gadolinium contrast enhancement (t1gd), T2-
+weighted image, and fluid-attenuated inversion recovery- (FLAIR) weighted image. Each 
+image is a 3D image with size (240,240,155).
 
 ## Segmentation of four different classes of brain tumor
 ![tumor_segmentation](https://user-images.githubusercontent.com/87497905/131783353-07d29f4e-f2e0-4043-a2c0-6063f072b749.jpg)
 ## python files description
-- 
+- Tumor_classification.py will work for 2d images and give results of binary classification whether tumor is present or not.
+- Other two python files named Tumor segmentation are used for segmentation of 3d input images.
 
 
   
